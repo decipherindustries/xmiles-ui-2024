@@ -1,0 +1,135 @@
+@font-face {
+    font-family: 'Formular';
+    src: url('Formular-BoldItalic.woff2') format('woff2'),
+        url('Formular-BoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Formular';
+    src: url('Formular-BlackItalic.woff2') format('woff2'),
+        url('Formular-BlackItalic.woff') format('woff');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Formular';
+    src: url('Formular.woff2') format('woff2'),
+        url('Formular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Formular';
+    src: url('Formular-MediumItalic.woff2') format('woff2'),
+        url('Formular-MediumItalic.woff') format('woff');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Formular Mono';
+    src: url('FormularMono.woff2') format('woff2'),
+        url('FormularMono.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Formular';
+    src: url('Formular-Black.woff2') format('woff2'),
+        url('Formular-Black.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Formular Ultra';
+    src: url('Formular-Ultra.woff2') format('woff2'),
+        url('Formular-Ultra.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Formular Ultra';
+    src: url('Formular-UltraItalic.woff2') format('woff2'),
+        url('Formular-UltraItalic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Formular';
+    src: url('Formular-ExtraLightItalic.woff2') format('woff2'),
+        url('Formular-ExtraLightItalic.woff') format('woff');
+    font-weight: 200;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Formular';
+    src: url('Formular-Italic.woff2') format('woff2'),
+        url('Formular-Italic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Formular';
+    src: url('Formular-Light.woff2') format('woff2'),
+        url('Formular-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Formular';
+    src: url('Formular-LightItalic.woff2') format('woff2'),
+        url('Formular-LightItalic.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Formular';
+    src: url('Formular-ExtraLight.woff2') format('woff2'),
+        url('Formular-ExtraLight.woff') format('woff');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Formular';
+    src: url('Formular-Bold.woff2') format('woff2'),
+        url('Formular-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Formular';
+    src: url('Formular-Medium.woff2') format('woff2'),
+        url('Formular-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
